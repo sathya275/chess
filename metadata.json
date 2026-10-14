@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster Offline Chess",
+  "description": "Tactile offline two-player chess game with official FIDE rules, pass-and-play, face-to-face table mode, customizable chess clocks, and move analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
